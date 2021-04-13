@@ -1,12 +1,12 @@
 # Лабораторная работа №1
 
-Выполнила: **Кропотова Юлия И-21**
+Выполнила: ** Соклов Артём И-21
 
 
 
 `git init`
 ```
-Initialized empty Git repository in C:/i21/kropot/.git/
+Initialized empty Git repository in C:/i21/sokolov/.git/
 ```
 
 `git add`
@@ -62,7 +62,7 @@ Untracked files:
 
 ```
 fatal: No pathspec was given. Which files should I remove?
-fatal: \*~: '\*~' is outside repository at 'C:/i21/kropot'
+fatal: \*~: '\*~' is outside repository at 'C:/i21/sokolov'
 ```
 
 `git log`
